@@ -1,7 +1,7 @@
 
 // ==UserScript==
 // @name        Reconstruct Classic Watch8 YouTube Layout Fixed
-// @version 1.0.2
+// @version 1.0.2.1
 // @description  A revised and (almost) fixed version of the "simple script that seeks to reconstruct the classic watch7 layout on YouTube." (though it's actually watch8)
 // @author syndiate
 // @require https://unpkg.com/vue@2.6.12/dist/vue.js
