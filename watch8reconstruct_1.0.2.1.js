@@ -985,7 +985,7 @@ function addStyle(styleString) {
 
 var storedText;
 
-fetch('https://raw.githubusercontent.com/randomperson189/Reconstruct-Classic-Watch8-Layout/trying-to-fix/watch_page.css')
+fetch('https://raw.githubusercontent.com/randomperson189/Reconstruct-Classic-Watch8-Layout/main/watch_page.css')
   .then(function(response) {
     response.text().then(function(text) {
       storedText = text;
